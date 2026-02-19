@@ -57,7 +57,13 @@ Location	Date	PM2.5 (µg/m³)	PM10 (µg/m³)
 City_A	2025-01-01	32.5	50.1
 City_B	2025-01-01	28.3	44.7
 
+
 🧑‍💻 Author
-Agbozu Ebingiye Nelvin
+
+Name: Agbozu Ebingiye Nelvin
+
 📧 Email: nelvinebingiye@gmail.com
-🌐 GitHub: https://github.com/Nelvinebi
+
+🌐 GitHub: *https://github.com/Nelvinebi
+
+LinkedIn: *https://www.linkedin.com/in/agbozu-ebi/
